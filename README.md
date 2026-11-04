@@ -2,7 +2,7 @@
 
 The company website for NORTHHHERN LABS, a startup and the parent company behind KLAVE and the products to come.
 
-Live: https://northhhernlabsdotcum.vercel.app
+Live: https://northhhernlabs.vercel.app
 
 ## Pages
 
